@@ -4,7 +4,7 @@ twitter_username: yerassil
 name: Aitan Yerassilov
 
 # Build settings
-markdown: kramdown
+markdown: markdown
 
 #User specific content
 #Links that will appear in the navbar
@@ -42,7 +42,7 @@ education:
    school: Vault77 Programming School, Almaty
  - level: Certificate of completion
    date: 2018
-   subject: Web intensive, Python
+   subject: Web intensive, Python, Django
    school: Method Programming School, Almaty
  - level: Bachelor of Science candidate
    date: 2009
@@ -54,7 +54,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - Yerassil/django_tickets
- - Yerassil/django_articles
+ - Yerassil/django_bookmarks
  - Yerassil/django_social
  - Yerassil/cat_a_day_bot
  - Yerassil/django_one
