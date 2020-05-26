@@ -64,3 +64,12 @@ intro: |
   Self-motivated developer with stack focused primarily on Python and Django framework seeking entry level web developer position in a growing company with strong team of IT-professionals to implement hard and soft skills gained from completed courses and self-education.
   Able to communicate effectively in a team setting and have strong willingness to learn new technologies that may be required in production. 
 
+coursera:	
+   profileurl: https://www.coursera.org/user/bd549797a26bbe864b122e7fe781c46c
+   courses:	
+    - title: Using Python to interact with the Operating System	
+      link: https://www.coursera.org/learn/python-operating-system/	
+      date: May 2020	
+    - title: Python Data Structures
+      link: https://www.coursera.org/learn/python-data/
+      date: May 2020
