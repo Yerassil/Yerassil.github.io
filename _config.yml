@@ -53,11 +53,13 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - Yerassil/django_tickets
+ - Yerassil/django_tickets_2
+ - Yerassil/django_shop
  - Yerassil/django_bookmarks
  - Yerassil/django_social
+ - Yerassil/subaruhelp
  - Yerassil/cat_a_day_bot
- - Yerassil/django_one
+ - Yerassil/django_blog
 
 
 intro: |
